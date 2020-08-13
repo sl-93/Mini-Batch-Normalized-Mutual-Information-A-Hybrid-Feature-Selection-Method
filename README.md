@@ -1,5 +1,12 @@
 # Mini-Batch-Normalized-Mutual-Information-A-Hybrid-Feature-Selection-Method
-implementing feature reduction with novel proposed solution in this article by python
+implementation feature selection with novel proposed method by python.
+
+this method has two phases:
+
+1.Feature Ranking: feature ranking function based on the filter approach
+
+2.Feature selection: the selection of optimal features based upon the ranking
+ 
 
 Reference:
 
