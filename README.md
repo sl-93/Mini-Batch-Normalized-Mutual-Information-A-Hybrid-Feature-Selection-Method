@@ -12,4 +12,4 @@ I've used "Optical Recognition of Handwritten Digits" Dataset for this project.
 
 Reference:
 
-https://ieeexplore.ieee.org/document/8805315
+https://ieeexplore.ieee.org/document/8805315!
